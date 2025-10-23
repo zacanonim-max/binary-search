@@ -27,7 +27,7 @@ we are given an array, for example '[1,4,7,3,2,12,5,6,61,90,0] '
 5. and so we continue the **cycle** until we find the element we need, but if there is no element, then we write - the element is missing 
 ##WHERE DID THE INFORMATION COME FROM???
 I learned about binary search from the book ***Groke_algorithms.Illustrated by a special feature for programmers and curious people.***
-link to the book as a [pdf file](https://kamilbilim.edu.tm/media/books/Groke_algorithms.Illustrated by a special feature for programmers and the curious._2017.pdf)
+link to the book as a [pdf-file](https://kamilbilim.edu.tm/media/books/Грокаем_Алгоритмы._Иллюстрированное_пособие_для_программистов_и_любопытствущих._2017.pdf)
 ![](https://cdn1.ozone.ru/s3/multimedia-2/6511970834.jpg )
 ![](https://avatars.mds.yandex.net/get-mpic/4252138/2a00000194b1f20df3b27fbc7f730c2cb9f2/orig )
 
