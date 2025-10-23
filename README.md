@@ -13,7 +13,7 @@ you can use the "<code>" button to download the entire repository, but you will 
 **binary search** works only with a sorted array.
 
 ## HOW IT WORKS
-we are given an array, for example '[1,4,7,3,2,12,5,6,61,90,0] '
+we are given an array, for example `[1,4,7,3,2,12,5,6,61,90,0]`
 1. We need to sort the list (*from smallest to largest*)
 2. we find the length of the array
 3. next, we find the middle of the array (this number is ~~6~~ 12)
