@@ -5,7 +5,7 @@
 1. Numbers
 2. Letters
 3. Words
-4. 
+
 ## HOW TO DOWNLOAD THE FILE
 you can use the "<code>" button to download the entire repository, but you will only need the file 'binary.java ', then you can use it however you want.
 
