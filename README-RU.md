@@ -1,5 +1,5 @@
 # binary-search
-[English](README.md) | [Русский](README-ru.md)
+[English](README.md) | [Русский](README-RU.md)
 ## ОПИСАНИЕ
 **бинарный поиск** нужен для нахождение элементов в массиве:
 1. числа
