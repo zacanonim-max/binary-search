@@ -27,8 +27,9 @@ I learned about binary search from the book ***Groke_algorithms.Illustrated by a
 link to the book as a [pdf file](https://kamilbilim.edu.tm/media/books/Groke_algorithms.Illustrated by a special feature for programmers and the curious._2017.pdf)
 ![](https://cdn1.ozone.ru/s3/multimedia-2/6511970834.jpg )
 ![](https://avatars.mds.yandex.net/get-mpic/4252138/2a00000194b1f20df3b27fbc7f730c2cb9f2/orig )
+
 | Heading 1 | Heading 2 | Heading 3 |
-|-------------|-------------|-------------|
+| --- | --- | --- |
 | Cell 1 | Cell 2 | Cell 3 |
 | Cell 4 | Cell 5 | Cell 6 |
 
