@@ -7,7 +7,7 @@
 - Words
 
 ## HOW TO DOWNLOAD THE FILE
-you can use the "<code>" button to download the entire repository, but you will only need the file 'binary.java ', then you can use it however you want.
+you can use the "code" button to download the entire repository, but you will only need the file 'binary.java ', then you can use it however you want.
 
 ## NOTE
 **binary search** works only with a sorted array.
